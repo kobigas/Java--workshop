@@ -14,5 +14,4 @@ public class Append {
         sentence.append(" Applications");
         System.out.println(sentence.toString());
     }
-
 }
