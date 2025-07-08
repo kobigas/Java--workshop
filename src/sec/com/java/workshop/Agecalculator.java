@@ -8,8 +8,6 @@ public class Agecalculator {
         int birthyear=LocalDate.now().getYear();
         int age=currentyear-birthyear;
         System.out.println("Your age is:"+age);
-
-
     }
 
 }
